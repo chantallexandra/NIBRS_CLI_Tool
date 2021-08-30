@@ -23,7 +23,7 @@ class FederalPropertySegment(Segment):
 		[3, 
 			{"name": "Suspected Drug Type", "length": 1},
 			{"name": "Estimated Drug Quantity", "length": 12},
-			{"name": "Type Drug Measurement", "length": 12},
+			{"name": "Type Drug Measurement", "length": 2},
 		]
 	]
 
